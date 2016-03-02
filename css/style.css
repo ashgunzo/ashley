@@ -1,0 +1,18 @@
+body {
+  background-color: #f58b57;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+p{
+  text-align: right;
+}
+
+.wrap {
+  width: 700px;
+  margin: 0 auto;
+}
